@@ -9,7 +9,7 @@ Welcome to the Flutter Number Guess Game app! 🎮 This is an exciting mobile ga
  	Instant Feedback
  	Responsive Design
   
-##About the Developer
+## About the Developer
 
 I'm a passionate Flutter developer with a flair for creating captivating user experiences through code. With a love for both problem-solving and innovative design, I embarked on the journey to build the Flutter Number Guessing Game app. My goal was to provide users with a fun and intuitive way to test their guessing skills while showcasing the power of the Flutter framework.
 <h2>How to play<h2></h2>
