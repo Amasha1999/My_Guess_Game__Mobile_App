@@ -1,4 +1,4 @@
-                                             ## Flutter Number Guess Game App 
+## Flutter Number Guess Game App 
 Welcome to the Flutter Number Guess Game app! 🎮 This is an exciting mobile game built using the Flutter framework, where players can test their guessing skills by trying to identify a randomly generated number within a specified range. Get ready for some fun and challenging gameplay! 🤩🔢
  
 ## Features
