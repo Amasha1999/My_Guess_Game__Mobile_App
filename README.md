@@ -17,6 +17,6 @@ Welcome to the world of "Guess," where the challenge lies in uncovering the conc
 
 <h2>Screenshots</h2>
 
-![image](https://github.com/Amasha1999/My_Guess_Game__Mobile_App/assets/96760573/f703d3d0-bb00-4f7c-8380-ef09264e9bc3)
+![image](https://github.com/Amasha1999/My_Guess_Game__Mobile_App/blob/main/assets/Screenshot.png)
 
  
